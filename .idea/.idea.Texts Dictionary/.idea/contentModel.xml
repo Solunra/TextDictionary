@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\choco\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\choco\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Texts Dictionary.452912878.00" t="ExcludeRecursive" />
-    <e p="C:\Users\choco\Documents\Project\Rider\Texts Dictionary" t="IncludeRecursive">
+    <e p="C:\Users\Sunny\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sunny\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Texts Dictionary.-1876056363.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Sunny\Documents\Rider Workplace\TextDictionary" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Input.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive">

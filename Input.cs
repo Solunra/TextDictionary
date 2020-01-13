@@ -7,7 +7,8 @@ namespace Texts_Dictionary
 {
     public class Input
     {
-        public static string resourcePath = @"C:\Users\choco\Documents\Project\Rider\Texts Dictionary\resources";
+        //Find a way to get this without manual input
+        public static string resourcePath = @"C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\resources";
 
         public static List<string> GetWords(string filename, string extension)
         {
@@ -15,6 +16,7 @@ namespace Texts_Dictionary
             try
             {
                 string source = File.ReadAllText(resourcePath + "\\" + filename + "." + extension);
+                //Currently not splitting properly, s appears as the whole file
                 string[] results = Regex.Split(source, "( .,!?\\/:;)+");
                 results.ToList().ForEach(s =>
                 {

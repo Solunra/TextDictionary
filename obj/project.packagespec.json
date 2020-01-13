@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\choco\\Documents\\Project\\Rider\\Texts Dictionary\\Texts Dictionary.csproj",
+    "projectUniqueName": "C:\\Users\\Sunny\\Documents\\Rider Workplace\\TextDictionary\\Texts Dictionary.csproj",
     "projectName": "Texts Dictionary",
-    "projectPath": "C:\\Users\\choco\\Documents\\Project\\Rider\\Texts Dictionary\\Texts Dictionary.csproj",
-    "outputPath": "C:\\Users\\choco\\Documents\\Project\\Rider\\Texts Dictionary\\obj\\",
+    "projectPath": "C:\\Users\\Sunny\\Documents\\Rider Workplace\\TextDictionary\\Texts Dictionary.csproj",
+    "outputPath": "C:\\Users\\Sunny\\Documents\\Rider Workplace\\TextDictionary\\obj\\",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp3.0"
     ],
@@ -40,7 +43,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Users\\choco\\.dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
     }
   }
 }

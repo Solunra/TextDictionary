@@ -9,3 +9,14 @@ C:\Users\choco\Documents\Project\Rider\Texts Dictionary\obj\Debug\netcoreapp3.0\
 C:\Users\choco\Documents\Project\Rider\Texts Dictionary\obj\Debug\netcoreapp3.0\Texts Dictionary.AssemblyInfo.cs
 C:\Users\choco\Documents\Project\Rider\Texts Dictionary\obj\Debug\netcoreapp3.0\Texts Dictionary.dll
 C:\Users\choco\Documents\Project\Rider\Texts Dictionary\obj\Debug\netcoreapp3.0\Texts Dictionary.pdb
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\bin\Debug\netcoreapp3.0\Texts Dictionary.exe
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\bin\Debug\netcoreapp3.0\Texts Dictionary.deps.json
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\bin\Debug\netcoreapp3.0\Texts Dictionary.runtimeconfig.json
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\bin\Debug\netcoreapp3.0\Texts Dictionary.runtimeconfig.dev.json
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\bin\Debug\netcoreapp3.0\Texts Dictionary.dll
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\bin\Debug\netcoreapp3.0\Texts Dictionary.pdb
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\obj\Debug\netcoreapp3.0\Texts Dictionary.csprojAssemblyReference.cache
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\obj\Debug\netcoreapp3.0\Texts Dictionary.AssemblyInfoInputs.cache
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\obj\Debug\netcoreapp3.0\Texts Dictionary.AssemblyInfo.cs
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\obj\Debug\netcoreapp3.0\Texts Dictionary.dll
+C:\Users\Sunny\Documents\Rider Workplace\TextDictionary\obj\Debug\netcoreapp3.0\Texts Dictionary.pdb
